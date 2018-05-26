@@ -20,7 +20,7 @@ class Genre
   
   
   def artists 
-    songs.each.
+    songs.collect
   end 
   
   def self.all
